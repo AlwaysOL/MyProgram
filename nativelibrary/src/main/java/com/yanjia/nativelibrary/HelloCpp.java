@@ -10,5 +10,6 @@ public class HelloCpp {
     }
 
     public static native String getAA();
+    public static native String getBB();
 
 }
